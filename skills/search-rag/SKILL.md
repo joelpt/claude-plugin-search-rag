@@ -1,6 +1,6 @@
 ---
 name: search-rag
-description: Semantic search over the user's project documentation. Use when the user asks to find, search, look up, or recall something from project docs/ADRs/markdown files, or when you need design rationale that lives in project documentation.
+description: Semantic search project documentation
 ---
 
 # search-rag: Semantic project documentation search

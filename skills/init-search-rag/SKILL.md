@@ -1,6 +1,6 @@
 ---
 name: init-search-rag
-description: Create or update the .search-rag.json config file for this project. Use when the user asks to set up, configure, or initialize the search-rag RAG index for their project.
+description: Set up search-rag for a project
 ---
 
 # init-search-rag: Set up search-rag for this project
